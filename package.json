@@ -1,6 +1,6 @@
 {
   "name": "@nekobato/nn-damage-gauge",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "description": "Damage gauge",
   "type": "module",
   "types": "nn-damage-gauge.d.ts",
